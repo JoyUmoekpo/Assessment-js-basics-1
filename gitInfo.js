@@ -21,7 +21,7 @@ var gitDefinition = 'Git is code management software that allows developers to c
 
 //CODE HERE
 
-
+var gitHubDefinition = 'GitHub is a website that uses git and cloud software to track and store our project commits and repositories containing our project information. Developers are also to collaborate on projects with other developers with different branches on the project.';
 
 //////////////////PROBLEM 3////////////////////
 /*
