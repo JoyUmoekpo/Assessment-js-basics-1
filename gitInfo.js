@@ -31,7 +31,7 @@ var gitHubDefinition = 'GitHub is a website that uses git and cloud software to 
 
 //CODE HERE
 
-var gitInitDefinition = 'Git init creates a new repository whatever someone runs that command.';
+var gitInitDefinition = 'Git init creates a new repository in the directory where someone runs that command.';
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -40,6 +40,8 @@ var gitInitDefinition = 'Git init creates a new repository whatever someone runs
 */
 
 //CODE HERE
+
+var gitCloneDefinition = 'Git clone allows developers to create a copy of a repository in the directory where they run that command.'
 
 //////////////////PROBLEM 5////////////////////
 /*
