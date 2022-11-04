@@ -41,7 +41,7 @@ var gitInitDefinition = 'Git init creates a new repository in the directory wher
 
 //CODE HERE
 
-var gitCloneDefinition = 'Git clone allows developers to create a copy of a repository in the directory where they run that command.'
+var gitCloneDefinition = 'Git clone allows developers to create a copy of a repository in the directory where they run that command.';
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -50,6 +50,8 @@ var gitCloneDefinition = 'Git clone allows developers to create a copy of a repo
 */
 
 //CODE HERE
+
+var gitStatusDefinition = 'Git status allows developers to see what files are in th staging area of their project and needed to be committed.';
 
 //////////////////PROBLEM 6////////////////////
 /*
