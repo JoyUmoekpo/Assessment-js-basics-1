@@ -79,6 +79,9 @@ var gitAddCode = 'git add .';
 
 //CODE HERE
 
+var gitCommitDefinition = 'Git commit creates a snapshot of the staged changed in the project and contain a message of the changes.';
+
+var gitCommitCode = 'git commit -m "initial commit"';
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -87,3 +90,4 @@ var gitAddCode = 'git add .';
 */
 
 //CODE HERE
+
