@@ -73,10 +73,8 @@ console.log(totalAcres);
 
 // CODE HERE
 
-
 var averageDailyAcres = totalAcres / 7;
 console.log(averageDailyAcres);
-
 
 // PROBLEM 3
 
