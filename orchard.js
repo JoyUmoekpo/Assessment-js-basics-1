@@ -23,8 +23,6 @@
     meaning that 2 acres of Fuji apples were 
     picked on Monday of this week.
 
-    Monday = day 1
-
     The prices are per pound and are written
     in cents. 
 */
@@ -55,7 +53,7 @@ const pinkPrice = .55
 
 var totalAcres = 0;
 
-for (let i = 0; i < fujiAcres.length; i++) {
+for (let i = 0; i <= 6; i++) {
     totalAcres += fujiAcres[i] + galaAcres[i] + pinkAcres[i];
 }
 
@@ -114,12 +112,11 @@ let days = 0
 
 // CODE HERE
 
-while (acresLeft > 0) {
-    day++;
-    acresLeft - averageDailyAcres;
-}
-
-console.log(days);
+// while (acresLeft > 0) {
+//     days++;
+//     acresLeft - averageDailyAcres;
+//     console.log(days);
+// }
 
 // PROBLEM 4
 
@@ -147,11 +144,13 @@ console.log(days);
 
 // CODE HERE
 
-// let fujiTons =
-// let galaTons =
-// let pinkTons =
+let fujiTons = [];
+let galaTons = [];
+let pinkTons = [];
 
+for (let i = 0; i < fujiAcres.length; i++) {
 
+}
 
 
 
