@@ -26,7 +26,7 @@ const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
 
-var middleNums = numbers.splice(1,3);
+var middleNums = numbers.splice(1, 3);
 console.log(middleNums);
 
 //////////////////PROBLEM 4////////////////////
@@ -42,3 +42,15 @@ console.log(middleNums);
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 // CODE HERE
+
+var answers = [];
+
+for (let i = 0; i < bigOrSmallArray.length; i++) {
+  if (bigOrSmallArray[i] > 100) {
+    answers.push('big');
+  } else if (bigOrSmallArray[i] <= 100) {
+    answers.push('small');
+  }
+}
+
+console.log(answers);
