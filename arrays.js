@@ -13,6 +13,9 @@ console.log(colorCopy);
 
 //CODE HERE
 
+colorCopy.push('purple');
+console.log(colorCopy);
+
 //////////////////PROBLEM 3////////////////////
 /*
   Using an array method, create a new array called 'middleNums' from the 
