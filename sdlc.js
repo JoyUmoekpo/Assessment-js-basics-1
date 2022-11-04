@@ -18,7 +18,7 @@
     The first one is done for you. 
 */
 
-const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
+const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added.";
 
 const analysisOfRequirements = "This is the second step in the software development lifecycle. This step involves analyzing established systems and the functional requirements to ensure the needs of both the customer and end user are met. Possible solutions for these requirements are discussed here.";
 
