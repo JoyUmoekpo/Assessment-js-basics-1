@@ -114,7 +114,12 @@ let days = 0
 
 // CODE HERE
 
+while (acresLeft > 0) {
+    day++;
+    acresLeft - averageDailyAcres;
+}
 
+console.log(days);
 
 // PROBLEM 4
 
