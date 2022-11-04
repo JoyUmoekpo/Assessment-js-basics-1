@@ -51,7 +51,7 @@ var gitCloneDefinition = 'Git clone allows developers to create a copy of a repo
 
 //CODE HERE
 
-var gitStatusDefinition = 'Git status allows developers to see what files are in th staging area of their project and needed to be committed.';
+var gitStatusDefinition = 'Git status allows developers to see what files are in th staging area of their project and what changes needed to be committed.';
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -63,6 +63,10 @@ var gitStatusDefinition = 'Git status allows developers to see what files are in
 */
 
 //CODE HERE
+
+var gitAddDefinition = 'Git adds the changes in the current working directory to the staging area for commits.';
+
+var gitAddCode = 'git add .';
 
 //////////////////PROBLEM 7////////////////////
 /*
