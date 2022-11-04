@@ -31,6 +31,8 @@ var gitHubDefinition = 'GitHub is a website that uses git and cloud software to 
 
 //CODE HERE
 
+var gitInitDefinition = 'Git init creates a new repository whatever someone runs that command.';
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
