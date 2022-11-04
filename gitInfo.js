@@ -91,3 +91,4 @@ var gitCommitCode = 'git commit -m "initial commit"';
 
 //CODE HERE
 
+var gitPushDefinition = 'Git push allows developers to push their project changes from their local repository to the remote repository for project.'
