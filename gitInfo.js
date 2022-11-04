@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+var gitDefinition = 'Git is code management software that allows developers to create applications and provides version control for said applications. It allows developers to save versions of our code through the use of commits.';
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+
 
 //////////////////PROBLEM 3////////////////////
 /*
