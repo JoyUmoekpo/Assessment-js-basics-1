@@ -175,7 +175,7 @@ console.log("Pink Tons: ", pinkTons);
 
 console.log("---------------------")
 
-
+// Explanation: In this problem, I set fujiTons, galaTons, and pinkTons to a shallow copy of fujiAcres, galaAcres, and pinkAcres respectively. Each of these sliced, shallow copies start at an index of 0 and end at an index of 6. Then, I created a for loop that that multiplied each item in the fujiTons, galaTons, and pinkTons arrays by a value of 6.5, which represents the amount of tons in each acres of the orchard.
 
 // PROBLEM 5
 
