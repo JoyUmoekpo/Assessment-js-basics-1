@@ -258,3 +258,5 @@ console.log("---------------------")
 let totalProfit = fujiProfit + galaProfit + pinkProfit;
 
 console.log("Total Profit: ", totalProfit)
+
+//Explanation: In this final problem, I created a 'totalProfit' variable and set it equal to the sum of all the profit variables (fujiProfit, galaProfit, and pinkProfit). Then, I console logged the total profit variable.
