@@ -110,11 +110,12 @@ let days = 0
 
 // CODE HERE
 
-// while (acresLeft > 0) {
-//     days++;
-//     acresLeft - averageDailyAcres;
-//     console.log(days);
-// }
+while (acresLeft > 0) {
+    days++;
+    acresLeft = acresLeft - averageDailyAcres;
+}
+
+console.log(days);
 
 // PROBLEM 4
 
