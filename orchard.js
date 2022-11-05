@@ -61,7 +61,7 @@ console.log(totalAcres);
 
 console.log("---------------------")
 
-// Explanation: In this problem, I created a 'totalAcres' variable with a starting value of 0 since it must be initialized and will increase as the for loop goes through each array.  After that, I made a for loop that starts at index 0 and ends at index 6. This is because there are seven items in each of the arrays so the for loop will go through each of the items in all three arrays. In the for loop, I set totalAcres to plus equals (+=) each item in each array, which is demonstrated through the name of the array next to a square bracket with the letter representing the index of said array (i.e. fujiAcres[i]). Then, I console logged the 'totalAcres' and placed console log hyphen 
+// Explanation: In this problem, I created a 'totalAcres' variable with a starting value of 0 since it must be initialized and will increase as the for loop goes through each array.  After that, I made a for loop that starts at index 0 and ends at index 6. This is because there are seven items in each of the arrays so the for loop will go through each of the items in all three arrays. In the for loop, I set totalAcres to plus equals (+=) each item in each array, which is demonstrated through the name of the array next to a square bracket with the letter representing the index of said array (i.e. fujiAcres[i]). Then, I console logged the 'totalAcres'.
 
 // PROBLEM 2
 
@@ -81,6 +81,8 @@ var averageDailyAcres = totalAcres / 7;
 console.log(averageDailyAcres);
 
 console.log("---------------------")
+
+// Explanation: In this problem, I created a 'averageDailyAcres' and set it to the previously created 'totalAcres' variable divided by 7 to find the average number of acres picked per day. Then, I console logged 'averageDailyAcres'.
 
 // PROBLEM 3
 
@@ -124,6 +126,7 @@ while (acresLeft > 0) {
 console.log(days);
 
 console.log("---------------------")
+
 
 // PROBLEM 4
 
@@ -170,6 +173,8 @@ console.log("Gala Tons:", galaTons);
 console.log("Pink Tons: ", pinkTons);
 
 console.log("---------------------")
+
+
 
 // PROBLEM 5
 
