@@ -59,6 +59,8 @@ for (let i = 0; i <= 6; i++) {
 
 console.log(totalAcres);
 
+console.log("---------------------")
+
 // PROBLEM 2
 
 /*
@@ -75,6 +77,8 @@ console.log(totalAcres);
 
 var averageDailyAcres = totalAcres / 7;
 console.log(averageDailyAcres);
+
+console.log("---------------------")
 
 // PROBLEM 3
 
@@ -116,6 +120,8 @@ while (acresLeft > 0) {
 }
 
 console.log(days);
+
+console.log("---------------------")
 
 // PROBLEM 4
 
@@ -161,6 +167,8 @@ console.log("Fuji Tons: ", fujiTons);
 console.log("Gala Tons:", galaTons);
 console.log("Pink Tons: ", pinkTons);
 
+console.log("---------------------")
+
 // PROBLEM 5
 
 /*
@@ -192,6 +200,8 @@ for (let i = 0; i <= 6; i++) {
 console.log("Fuji Pounds: ", fujiPounds);
 console.log("Gala Pounds: ", galaPounds);
 console.log("Pink Pounds: ", pinkPounds);
+
+console.log("---------------------")
 
 // PROBLEM 6
 
