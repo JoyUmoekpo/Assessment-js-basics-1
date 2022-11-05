@@ -127,6 +127,7 @@ console.log(days);
 
 console.log("---------------------")
 
+// Explanation: In this problem, I created a while loop that uses the provided variables 'acresLeft' and 'days'. In the while loop, I set the condition to make the loop run until the 'acresLeft' variable was less than 0. Each time the loop runs, the 'days' variable will be increased by one because the '++' operator. The 'acresLeft' variable will also decrease by the previous created variable 'averageDailyAcres'. The acresLeft will be updated because it is equaled to acresLeft variable minus the averageDailyAcres variable. So, it will decrease each time the loop runs. Then, I console logged the 'days' variable.
 
 // PROBLEM 4
 
