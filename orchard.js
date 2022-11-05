@@ -221,14 +221,15 @@ console.log("---------------------")
 
 // CODE HERE
 
-// let fujiProfit =
-// let galaProfit =
-// let pinkProfit =
+let fujiProfit = fujiPounds * fujiPrice;
+let galaProfit = galaPounds * galaPrice;
+let pinkProfit = pinkPounds * pinkPrice;
 
+console.log("Fuji Profit: ", fujiProfit);
+console.log("Gala Profit: ", galaProfit);
+console.log("Pink Profit: ", pinkProfit);
 
-
-
-
+console.log("---------------------")
 
 // PROBLEM 7
 
