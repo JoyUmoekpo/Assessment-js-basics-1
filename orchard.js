@@ -148,8 +148,8 @@ let galaTons = [];
 let pinkTons = [];
 
 fujiTons = fujiAcres.slice(0, 7);
-galaTons = galaAcres.slice(0,7);
-pinkTons = pinkAcres.slice(0,7);
+galaTons = galaAcres.slice(0, 7);
+pinkTons = pinkAcres.slice(0, 7);
 
 for (var i = 0; i <= 6; i++) {
     fujiTons[i] = fujiTons[i] * 6.5;
@@ -182,12 +182,17 @@ console.log(pinkTons);
 let fujiPounds = 0;
 let galaPounds = 0;
 let pinkPounds = 0;
+let fujiTons2 = 0;
 
+for (let i = 0; i <= 6; i++) {
+    fujiPounds += fujiTons[i] * 2000;
+    galaPounds += galaTons[i] * 2000;
+    pinkPounds += pinkTons[i] * 2000;
+}
 
-// for (let i = 0; i <= 6; i++) {
-    // console.log(fujiPounds);
-
-// }
+console.log(fujiPounds);
+console.log(galaPounds);
+console.log(pinkPounds);
 
 // PROBLEM 6
 
