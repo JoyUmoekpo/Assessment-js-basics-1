@@ -211,7 +211,7 @@ console.log("Pink Pounds: ", pinkPounds);
 
 console.log("---------------------")
 
-
+// Explanation: In this problem, I created a for loop starting from index 0 and ending at index 6. Using the provided, initialized variables 'fujiPounds', 'galaPounds', and 'pinkPounds', I set them to equal to their respective Tons values (fujiPounds, galaPounds, pinkPounds) multiplied by 2000 (the number of pounds in a ton). When written this way, each value in the Tons arrays is multiplied by 2000 and that product is added to the respective Pounds variable. Then, each new product is added to the Pounds variable every time the for loops run. Then, I console logged the fujiPounds, galaPounds and pinkPounds variables.
 
 // PROBLEM 6
 
