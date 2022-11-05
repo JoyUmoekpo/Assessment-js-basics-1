@@ -157,9 +157,9 @@ for (var i = 0; i <= 6; i++) {
     pinkTons[i] = pinkTons[i] * 6.5;
 }
 
-console.log(fujiTons);
-console.log(galaTons);
-console.log(pinkTons);
+console.log("Fuji Tons: ", fujiTons);
+console.log("Gala Tons:", galaTons);
+console.log("Pink Tons: ", pinkTons);
 
 // PROBLEM 5
 
