@@ -241,6 +241,8 @@ console.log("Pink Profit: ", pinkProfit);
 
 console.log("---------------------")
 
+// Explanation: In this problem, I set each Profit variable to equal the product of their respective Pounds and Price variables. Then I console logged each Profit variable.
+
 // PROBLEM 7
 
 /*
