@@ -242,3 +242,7 @@ console.log("---------------------")
 */
 
 // CODE HERE
+
+let totalProfit = fujiProfit + galaProfit + pinkProfit;
+
+console.log("Total Profit: ", totalProfit)
